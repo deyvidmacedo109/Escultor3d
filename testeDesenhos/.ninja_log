@@ -1,0 +1,14 @@
+# ninja log v6
+1	25	1750524780462244441	CMakeFiles/escultor3D.dir/cutvoxel.cpp.o	302b3371b2ceef2b
+1	27	1750524780462244441	CMakeFiles/escultor3D.dir/putvoxel.cpp.o	2e8a69524ad36a42
+1	27	1750524780462244441	CMakeFiles/escultor3D.dir/figurageometrica.cpp.o	dcacc7e73a3fe10f
+2	28	1750524780463244445	CMakeFiles/escultor3D.dir/cutbox.cpp.o	4a3a2418a1d814be
+1	29	1750524780462244441	CMakeFiles/escultor3D.dir/putbox.cpp.o	61baf2abb6d697ac
+2	171	1750524780463244445	CMakeFiles/escultor3D.dir/putellipsoid.cpp.o	a24cc2bbd0cb172e
+3	174	1750524780464244450	CMakeFiles/escultor3D.dir/cutellipsoid.cpp.o	c36d94b5dd623452
+2	236	1750524780463244445	CMakeFiles/escultor3D.dir/cutsphere.cpp.o	742f487c305ddd0c
+2	237	1750524780463244445	CMakeFiles/escultor3D.dir/putsphere.cpp.o	990324d2ef566e2
+1	238	1750524780461244437	CMakeFiles/escultor3D.dir/main.cpp.o	6c4d657a66bea9ce
+3	387	1750524780464244450	CMakeFiles/escultor3D.dir/readfile.cpp.o	b4412e091f06d81e
+1	443	1750524780462244441	CMakeFiles/escultor3D.dir/sculptor.cpp.o	e5a9eaea784c3e58
+443	576	1750524780904246261	escultor3D	49e1c2308de4b136

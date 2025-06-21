@@ -1,0 +1,3 @@
+dim 20 20 20
+putSphere 10, 10, 10, 10
+cutSphere 10, 10, 10, 5
