@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Escultor 3D
 
 Programa interativo para criação de esculturas.
@@ -45,3 +46,7 @@ _OBS.: Foi exigido que o projeto faça uso do conceito de ponteiros para a cria�
 ## Links
 
 - [Projeto Escultor 3D - Agostinho Brito](https://agostinhobritojr.github.io/curso/progav-dca3303/escultor.html)
+=======
+# Escultor3d
+escultor3d
+>>>>>>> 22e5d0e7eec3633df0cdbe187662872645987c57
