@@ -41,7 +41,7 @@ _OBS.: Foi exigido que o projeto fa√ßa uso do conceito de ponteiros para a cria√
 
 ## Autores
 
-[Carolina Soares](https://github.com/MariaCarolinass)
+[Deyvid Macedo](https://github.com/deyvidmacedo109))
 
 ## Links
 
