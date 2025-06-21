@@ -41,7 +41,7 @@ _OBS.: Foi exigido que o projeto fa√ßa uso do conceito de ponteiros para a cria√
 
 ## Autores
 
-[Deyvid Macedo](https://github.com/deyvidmacedo109))
+[Deyvid Macedo](https://github.com/deyvidmacedo109)
 
 ## Links
 
